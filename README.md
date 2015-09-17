@@ -1,5 +1,13 @@
 # Resources
 
+
+### Color
+
+- [Adobe Color](http://color.adobe.com)
+- [Color Safe](http://colorsafe.co)
+- [Design Seeds](http://design-seeds.com)
+
+
 ### Site Inspiration
 
 - [Awwwards](http://www.awwwards.com)
