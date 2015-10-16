@@ -4,6 +4,7 @@
 ## Color
 
 - [Adobe Color](http://color.adobe.com)
+- [Color Palettes](http://colorpalettes.net)
 - [Color Safe](http://colorsafe.co)
 - [Design Seeds](http://design-seeds.com)
 
@@ -23,6 +24,7 @@
 
 ## Web Typography
 
+- [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com)
 - [Better Google Web Fonts](http://somadesign.ca/demos/better-google-fonts)
 - [CSS Font Stack](http://www.cssfontstack.com)
 - [Quotes and Accents](http://quotesandaccents.com)
