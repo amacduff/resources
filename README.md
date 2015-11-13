@@ -12,7 +12,7 @@
 ## Site Inspiration
 
 - [Awwwards](http://www.awwwards.com)
-- [One Page Love](https://onepagelove.com)
+- [One Page Love](http://onepagelove.com)
 - [Site Inspire](http://siteinspire.com)
 
 
@@ -24,7 +24,7 @@
 
 ## Web Typography
 
-- [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com)
+- [Adobe Edge Web Fonts](http://edgewebfonts.adobe.com)
 - [Better Google Web Fonts](http://somadesign.ca/demos/better-google-fonts)
 - [CSS Font Stack](http://www.cssfontstack.com)
 - [Quotes and Accents](http://quotesandaccents.com)
@@ -33,3 +33,7 @@
 ## jQuery
 
 - [jQuery Quick API Reference](http://oscarotero.com/jquery)
+
+## Image Optimization
+
+- [TinyPNG](http://tinypng.com)
