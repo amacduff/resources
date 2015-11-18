@@ -32,6 +32,10 @@ A list of sites I find myself looking up time and time again, so I started gathe
 - [Smart Quotes For Smart People](http://smartquotesforsmartpeople.com)
 
 
+## Icons
+- [Copy Paste Character](http://www.copypastecharacter.com)
+
+
 ## HTML
 - [Taming Lists](http://alistapart.com/article/taminglists)
 
