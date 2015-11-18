@@ -1,4 +1,5 @@
 # Resources
+A list of sites I find myself looking up time and time again, so I started gathering them together to save myself some time. If you find it useful, that's cool too.
 
 
 ## Color
