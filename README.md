@@ -11,7 +11,7 @@ A list of sites I find myself looking up time and time again, so I started gathe
 
 ## Site Inspiration
 - [Awwwards](http://www.awwwards.com)
-- [Mind Sparkle Mag](http://mindsparklemag.com)
+- [Mind Sparkle](http://mindsparklemag.com)
 - [One Page Love](http://onepagelove.com)
 - [Site Inspire](http://siteinspire.com)
 
