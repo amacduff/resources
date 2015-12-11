@@ -52,4 +52,5 @@ A list of sites I find myself looking up time and time again, so I started gathe
 
 ## jQuery Plugins
 - [FitText](http://fittextjs.com)
+- [FitVids](http://fitvidsjs.com)
 - [Lettering.js](http://letteringjs.com)
