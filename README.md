@@ -46,5 +46,10 @@ A list of sites I find myself looking up time and time again, so I started gathe
 - [Styling Ordered List Numbers](http://www.456bereastreet.com/archive/201105/styling_ordered_list_numbers)
 
 
-## jQuery
+## jQuery Reference
 - [jQuery Quick API Reference](http://oscarotero.com/jquery)
+
+
+## jQuery Plugins
+- [FitText](http://fittextjs.com)
+- [Lettering.js](http://letteringjs.com)
