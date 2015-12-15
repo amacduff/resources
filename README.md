@@ -34,6 +34,7 @@ A list of sites I find myself looking up time and time again, so I started gathe
 - [Adobe Edge Web Fonts](http://edgewebfonts.adobe.com)
 - [Better Google Web Fonts](http://somadesign.ca/demos/better-google-fonts)
 - [CSS Font Stack](http://www.cssfontstack.com)
+- [Font Squirrel](http://www.fontsquirrel.com)
 - [Quotes and Accents](http://quotesandaccents.com)
 - [Smart Quotes For Smart People](http://smartquotesforsmartpeople.com)
 
