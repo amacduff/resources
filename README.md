@@ -41,6 +41,7 @@ A list of sites I find myself looking up time and time again, so I started gathe
 
 ## Icons
 - [Copy Paste Character](http://www.copypastecharacter.com)
+- [The Noun Project](http://thenounproject.com)
 
 
 ## HTML
